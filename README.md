@@ -1,1 +1,1 @@
-![Результат](https://github.com/myudakov/Stylishprofilecard/blob/profilecard/result.png?raw=true)
+![Результат](https://github.com/myudakov/Stylishprofilecard/blob/main/profilecard/result.png
